@@ -15,6 +15,7 @@ We believe working together from anywhere in the world should be easy, secure an
 
 ### Team:
 * [Kristof Van Stappen](https://www.linkedin.com/in/kristof-van-stappen-3b431932/)
+... OTHER TEAM MEMBERS...
 
 
 ### Website:
@@ -34,11 +35,13 @@ https://drive.google.com/drive/u/2/folders/1tsq2JAlCXE_wSbVo-lzA_O-mfiMUF567
 
 ## Repos
 
-### [Home](https://github.com/atwgreen/home)
+### [Home](https://github.com/openlylive/home)
 Home of the organization
 
-### [www_atwg_tech](https://github.com/atwgreen/www_atwg_tech)
-Landing page website: [www.atwg.tech](https://www.atwg.tech) 
+### [www_openly_live](https://github.com/openlylive/www_openly_live)
+Landing page website: [http://openly.live](http://openly.live) 
 
-### [info](https://github.com/atwgreen/info)
-Organization wiki. Hosted as [wiki.atwg.tech](http://wiki.atwg.tech/)
+### [info](https://github.com/openlylive/info)
+Organization wiki. Will be hosted as [wiki.openly.live](http://wiki.openly.live/)
+
+... OTHER REPOS...
