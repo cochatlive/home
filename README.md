@@ -1,6 +1,7 @@
 # [Openly.Live](http://openly.live)
 
 DECENTRALIZED COMMUNICATION 
+
 Openly Connect, Communicate and Collaborate; Anywhere and Everywhere.
 
 We believe working together from anywhere in the world should be easy, secure and accessible. Openly.Live is everything you need to work together. We offer complete privacy, no one can read your messages. Not even our engineers.
